@@ -58,6 +58,8 @@
 - [AI-Writing-Assistant)](https://github.com/simplysabir/AI-Writing-Assistant): GPT3 Blog Post Generator.
 - [adrenaline](https://github.com/shobrook/adrenaline/):  a debugger powered by the OpenAI Codex.
 -  [ChatGPT-OpenAI-Smart-Speaker](https://github.com/Olney1/ChatGPT-OpenAI-Smart-Speaker):  use speech recognition and text-to-speech to enable voice-driven conversations with OpenAI.  
+-   [researchgpt](https://github.com/mukulpatnaik/researchgpt) :   assistant allows you to have a conversation with a research paper.
+-  [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) : 使用 express 和 vue3 搭建的 GPT-3 模型演示网页.
 
 ## Development tools
 - [stackexplain](https://github.com/shobrook/stackexplain):  Explain your error message with ChatGPT.
