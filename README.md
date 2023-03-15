@@ -7,6 +7,7 @@
 - [ChatGPT Official App](https://chat.openai.com)
 - [OpenAI API Documentation](https://beta.openai.com/docs)
 - [chatGPT launch blog](https://openai.com/blog/chatgpt/)
+-  [GPT-4 (openai.com)](https://openai.com/research/gpt-4) 
 
 ## ChatGPT Desktop App
 
