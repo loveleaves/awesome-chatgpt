@@ -10,7 +10,7 @@
 
 ## 类似ChatGPT的免费在线版
 
-- https://chatbot.theb.ai/ ：由 The BAI LLC 开发，基于 OpenAI GPT-3.5 技术构建而成
+- https://chatbot.theb.ai/ ：由 The BAI LLC 开发，基于 OpenAI GPT-3.5 技术构建而成，[Github仓库]( https://github.com/Chanzhaoyu/chatgpt-web)
 
 ## 提示词（Prompts）
 
