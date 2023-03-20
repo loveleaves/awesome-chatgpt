@@ -9,9 +9,10 @@
 - [chatGPT launch blog](https://openai.com/blog/chatgpt/)
 -  [GPT-4 (openai.com)](https://openai.com/research/gpt-4) 
 
-## ChatGPT-like Online
+## ChatGPT-like Project
 
 - https://chatbot.theb.ai/ :  developed by The BAI LLC and built on OpenAI GPT-3.5 technology
+- [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt.git) : A list of totally open alternatives to ChatGPT
 
 ## ChatGPT Desktop App
 
