@@ -9,6 +9,10 @@
 - [chatGPT launch blog](https://openai.com/blog/chatgpt/)
 -  [GPT-4 (openai.com)](https://openai.com/research/gpt-4) 
 
+## ChatGPT-like Online
+
+- https://chatbot.theb.ai/ :  developed by The BAI LLC and built on OpenAI GPT-3.5 technology
+
 ## ChatGPT Desktop App
 
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) : Windows/MacOS desktop menubar app using tauri & rust. 

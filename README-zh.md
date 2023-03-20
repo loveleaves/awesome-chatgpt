@@ -8,6 +8,10 @@
 - [OpenAI API 文档](https://beta.openai.com/docs)
 - [chatGPT 运行博客](https://openai.com/blog/chatgpt/)
 
+## 类似ChatGPT的免费在线版
+
+- https://chatbot.theb.ai/ ：由 The BAI LLC 开发，基于 OpenAI GPT-3.5 技术构建而成
+
 ## 提示词（Prompts）
 
 >或称“调教指南”
