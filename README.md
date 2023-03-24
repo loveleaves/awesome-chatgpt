@@ -2,6 +2,8 @@
 
 ![ChatGPT](./chatgpt-header.png)
 
+[English](./README.md) | [简体中文](./README-zh.md)
+
 ## Official Resource
 
 - [ChatGPT Official App](https://chat.openai.com)
@@ -66,6 +68,9 @@
 -  [ChatGPT-OpenAI-Smart-Speaker](https://github.com/Olney1/ChatGPT-OpenAI-Smart-Speaker):  use speech recognition and text-to-speech to enable voice-driven conversations with OpenAI.  
 -   [researchgpt](https://github.com/mukulpatnaik/researchgpt) :   assistant allows you to have a conversation with a research paper.
 -  [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) : 使用 express 和 vue3 搭建的 GPT-3 模型演示网页.
+-  [Elicit: The AI Research Assistant](https://elicit.org/) :   help you automate research workflows, like parts of literature review. 
+-  [SlidesGPT - Like ChatGPT for slides](https://slidesgpt.com/) : ChatGPT for PowerPoint.
+-   [Chain of Thought - Every](https://every.to/chain-of-thought/gpt-3-is-the-best-journal-you-ve-ever-used)  :  help you generate research journal.
 
 ## Development tools
 - [stackexplain](https://github.com/shobrook/stackexplain):  Explain your error message with ChatGPT.
@@ -77,10 +82,16 @@
 - [FinGen](https://github.com/Stratus-Security/FinGen):  help save penetration testers time and provide more readable findings. 
 
 ## prompts
+
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts) : Posts & thoughts about prompting ChatGPT for different usages.[HuggingFace Online](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
 - [showGPT](https://showgpt.co/): Website with curated list of best prompts, and you can submit your own easily.
 - [Prompts - FlowGPT](https://flowgpt.com/prompts):   Discover the best prompts as rated by FlowGPT users that fit your needs.
 - [Promptify](https://github.com/promptslab/Promptify.git):  Use GPT or other prompt based models to get structured output.(NER, QA, etc.)
+-  [11 ways you can use ChatGPT to write code](https://typefully.com/svpino/11-ways-you-can-use-chatgpt-to-write-code-YnkOEF4) : teach you how to write code using ChatGPT.
+
+## Report
+
+- [TheRoad To ChatGPT_Explained By_MIT_Sloan_LH](./Materials/TheRoadToChatGPT_ExplainedBy_MIT_Sloan_LH.pdf)
 
 ## Community / Discussion
 
@@ -88,6 +99,9 @@
 - [ChatGPT (reddit.com)](https://www.reddit.com/r/ChatGPT/)
 - [Discord](https://discord.com/invite/m88xfYMbK6)
 
+## Other
+
+-  [AI Opener: OpenAI’s Sutskever in Conversation With Jensen Huang](https://blogs.nvidia.com/blog/2023/03/22/sutskever-openai-gtc/)    [Video](https://www.nvidia.cn/gtc-global/session-catalog/?tab.catalogallsessionstab=16566177511100015Kus#/session/1669748941314001t6Nv) 
 
 ## Contribution
 
