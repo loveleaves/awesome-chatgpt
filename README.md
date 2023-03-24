@@ -9,7 +9,7 @@
 - [ChatGPT Official App](https://chat.openai.com)
 - [OpenAI API Documentation](https://beta.openai.com/docs)
 - [chatGPT launch blog](https://openai.com/blog/chatgpt/)
-- [GPT-4](./gpt-4.md) 
+- [GPT-4](./GPT-4.md) 
 
 ## ChatGPT-like Project
 
