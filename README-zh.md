@@ -32,6 +32,7 @@
 - [东莞证券-计算机行业深度报告：大厂加大类ChatGPT布局力度，商业应用有望加速落地](./Materials/东莞证券-计算机行业深度报告：大厂加大类ChatGPT布局力度，商业应用有望加速落地-230210.pdf)
 - [哈尔滨工业大学：ChatGPT调研报告](./Materials/哈尔滨工业大学：ChatGPT调研报告.pdf)
 - [华泰证券-计算机行业ChatGPT：深度拆解](./Materials/华泰证券-计算机行业ChatGPT：深度拆解-230209.pdf)
+- [154页微软GPT研究报告（全中文版）](./Materials/微软GPT研究报告.pdf)
 
 ## 社区
 
